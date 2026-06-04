@@ -1,0 +1,12 @@
+ana() {
+    sayı sayaç;
+    sayı sınır;
+
+    sayaç = 0;
+    sınır = 5;
+
+    döngü (sayaç < sınır) {
+        yazdır(sayaç);
+        sayaç = sayaç + 1;
+    }
+}

@@ -1,0 +1,11 @@
+ana() {
+    sayı a;
+    sayı b;
+
+    a = 10;
+    b = 20;
+
+    eğer (a == b { 
+        yazdır(a);
+    }
+}

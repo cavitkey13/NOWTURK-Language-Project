@@ -1,0 +1,10 @@
+ana() {
+    sayı a;
+    sayı b;
+    sayı sonuç;
+
+    a = 10;
+    b = 2;
+    sonuç = a + b * 4 - (a / b);
+    yazdır(sonuç);
+}

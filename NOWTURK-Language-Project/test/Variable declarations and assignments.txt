@@ -1,0 +1,13 @@
+ana(){
+
+   sayı x ;
+   sayı y;
+
+    x=13;
+    y=28;
+
+   yazdır(x);
+   yazdır(y);
+
+
+}

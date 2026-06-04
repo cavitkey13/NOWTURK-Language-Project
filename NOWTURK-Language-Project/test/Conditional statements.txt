@@ -1,0 +1,13 @@
+ana() {
+    sayı x;
+    sayı y;
+
+    x = 45;
+    y = 20;
+
+    eğer (x >= y) {
+        yazdır(x);
+    } değilse{
+        yazdır(y);
+    }
+}
